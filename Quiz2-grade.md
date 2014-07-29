@@ -1,7 +1,7 @@
 ## Quiz 2 Grade: 90%
 
 1. 25 (out of 25)
-2. 25 (out of 25) Did not reflect what article stated. 
+2. 25 (out of 25)
 3. 50 (out of 50) 
 
 -10% for applying your css to every page, taking away my ability to grade pages individually.
